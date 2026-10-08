@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+
+# Dumps Open Food Facts / Open Products Facts (trop lourds pour git)
+data.json
+openfoodfacts/*.db
+openfoodfacts/*.csv
+openfoodfacts/*.csv.gz
+openfoodfacts/*.part
